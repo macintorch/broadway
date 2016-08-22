@@ -1,6 +1,10 @@
 Udemy - 8 beautiful ruby on rails apps in 30 days
 
+
 App # 5
 
 Broadway
 
+Key Takeaways
+
+Categories sorting
