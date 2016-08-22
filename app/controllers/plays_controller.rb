@@ -32,7 +32,7 @@ class PlaysController < ApplicationController
 
 	def update
 
-		@play.category_id = params [:category_id]
+		@play.category_id = params[:category_id]
 
 		if @play.update(play_params)
 			redirect_to play_path(@play)
