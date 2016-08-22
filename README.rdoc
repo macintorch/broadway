@@ -7,4 +7,4 @@ Broadway
 
 Key Takeaways
 
-Categories sorting
+Categories sorting and filtering on index page
