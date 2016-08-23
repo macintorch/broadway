@@ -8,3 +8,7 @@ Broadway
 Key Takeaways
 
 Categories sorting and filtering on index page
+
+Review ratings using stars 
+
+https://github.com/wbotelhos/raty
